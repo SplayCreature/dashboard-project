@@ -1,0 +1,4 @@
+.header img, .sidebar img, .card-img img, .profiles img {
+    width: 30px;
+    height: auto;
+}
